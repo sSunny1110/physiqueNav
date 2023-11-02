@@ -1,0 +1,26 @@
+
+.sts{
+    color: rgb(113, 113, 50);
+   }
+   h1{
+    text-align: center;
+   }
+   div{
+    display: flex;
+    margin: auto;
+    width: 450px;
+    justify-content: center;
+    justify-content: space-around;
+   }
+  input{
+    height: 30px;
+    font-weight: bold;
+    border:1px solid  rgb(102, 140, 140);
+  }
+  button{
+    background-color: rgb(142, 190, 190) ;
+    border: 0px;
+  }
+  span{
+    color: rgb(102, 140, 140) ;
+  }
